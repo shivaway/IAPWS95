@@ -13,7 +13,7 @@ License: MIT + file LICENSE
 LazyData: true
 LinkingTo: Rcpp
 Imports: ggplot2, pander, Rcpp
-RoxygenNote: 7.2.0
+RoxygenNote: 7.2.3
 Encoding: UTF-8
 Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr,rmarkdown
