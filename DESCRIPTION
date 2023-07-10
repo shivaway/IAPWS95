@@ -1,6 +1,6 @@
 Package: IAPWS95
 Title: Thermophysical Properties of Water and Steam
-Version: 1.2.1
+Version: 1.2.2
 Authors@R: c(person("Benedito", "Baptista", role = c("aut")),
              person("Shawn", "Way", email = "shawnway@yahoo.com", role = c("cre")))
 Description: Functions for Water and Steam Properties based on the
