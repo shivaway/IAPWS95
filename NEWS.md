@@ -1,9 +1,13 @@
 ---
 title: "NEWS"
 author: "Shawn Way"
-date: "11Jul2023"
+date: "06Sep2023"
 output: html_document
 ---
+
+# IAPWS95 1.2.4
+
+Updated missed DFLOAT to DBLE in Fortran code to meet current compiler requirements.
 
 # IAPWS95 1.2.3
 
