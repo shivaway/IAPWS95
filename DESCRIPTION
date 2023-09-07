@@ -3,11 +3,10 @@ Title: Thermophysical Properties of Water and Steam
 Version: 1.2.4
 Authors@R: c(person("Benedito", "Baptista", role = c("aut")),
              person("Shawn", "Way", email = "shawnway@yahoo.com", role = c("cre")))
-Description: Functions for Water and Steam Properties based on the
-    International Association for the Properties of Water (IAPWS) Formulation
-    1995 for the Thermodynamic Properties of Ordinary Water Substance for General and
-    Scientific Use and on the releases for viscosity, conductivity, surface tension and
-    melting pressure.
+Description: An implimentation of the International Association for the
+    Properties of Water (IAPWS) Formulation 1995 for the Thermodynamic Properties of Ordinary
+    Water Substance for General and Scientific Use and on the releases for viscosity,
+    conductivity, surface tension and melting pressure.
 Depends: R (>= 3.5.0)
 License: MIT + file LICENSE
 LazyData: true
