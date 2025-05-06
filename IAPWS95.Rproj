@@ -14,7 +14,8 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Package
+PackageUseDevtools: Yes
 PackageInstallArgs: --no-multiarch --with-keep.source --no-lock --debug --no-clean-on-error --use-LTO
 PackageBuildBinaryArgs: --use-LTO
-PackageCheckArgs: --as-cran --no-lock
+PackageCheckArgs: --as-cran
 PackageRoxygenize: vignette
